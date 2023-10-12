@@ -12,3 +12,6 @@ def guess(x):
     print(f"Yeah, you guess the number {random_number}")
 
 guess(10)
+
+
+
