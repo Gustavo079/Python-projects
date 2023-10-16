@@ -1,0 +1,1 @@
+words = ["jirafa", "leon", "tiburon", "pajaro","elefante", "perro", "gato", "colibri", "tortuga", "chihuahua", "rana", "pato", "conejo", "tigre", "venado"]
